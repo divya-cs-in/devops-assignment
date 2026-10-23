@@ -1,1 +1,2 @@
 ﻿This is the initial content for assignment 1.
+Adding a second line of text.
